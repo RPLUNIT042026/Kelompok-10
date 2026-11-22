@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 185" width="100%">
+  <rect width="880" height="185" rx="12" fill="#121417" stroke="#2D333B" stroke-width="2" />
+
+  
+  <text x="440" y="24" text-anchor="middle" font-family="&#39;Courier New&#39;, Consolas, monospace" font-size="14" font-weight="bold" fill="#80FF20">LVL 1 • SPRINT QUEST</text>
+  <rect x="40" y="32" width="800" height="12" rx="2" fill="#1E291E" stroke="#3B4D3B" stroke-width="1.5" />
+  <rect x="42" y="34" width="140" height="8" fill="#80FF20" />
+
+  
+  <line x1="82.5" y1="92" x2="797.5" y2="92" stroke="#4B5563" stroke-width="3" stroke-dasharray="6,6" />
+
+  
+  <polygon points="82.5,64 76.5,54 88.5,54" fill="#80FF20" />
+
+  
+  <g transform="translate(25, 70)">
+    <rect x="35.5" y="0" width="44" height="44" rx="4" fill="#1B1F24" stroke="#FF5555" stroke-width="2.5" />
+    <text x="57.5" y="29" text-anchor="middle" font-family="&#39;Courier New&#39;, Consolas, monospace" font-size="20" font-weight="bold" fill="#FF5555">1</text>
+    <text x="57.5" y="64" text-anchor="middle" font-family="&#39;Courier New&#39;, Consolas, monospace" font-size="11" font-weight="bold" fill="#FFFFFF">ANALISIS</text>
+    <text x="57.5" y="80" text-anchor="middle" font-family="&#39;Courier New&#39;, Consolas, monospace" font-size="9" fill="#9BA3AF">KEBUTUHAN</text>
+  </g>
+
+  
+  <g transform="translate(168, 70)">
+    <rect x="35.5" y="0" width="44" height="44" rx="4" fill="#1B1F24" stroke="#FF55FF" stroke-width="2.5" />
+    <text x="57.5" y="29" text-anchor="middle" font-family="&#39;Courier New&#39;, Consolas, monospace" font-size="20" font-weight="bold" fill="#FF55FF">2</text>
+    <text x="57.5" y="64" text-anchor="middle" font-family="&#39;Courier New&#39;, Consolas, monospace" font-size="11" font-weight="bold" fill="#FFFFFF">DESAIN</text>
+    <text x="57.5" y="80" text-anchor="middle" font-family="&#39;Courier New&#39;, Consolas, monospace" font-size="9" fill="#9BA3AF">ARSITEKTUR</text>
+  </g>
+
+  
+  <g transform="translate(311, 70)">
+    <rect x="35.5" y="0" width="44" height="44" rx="4" fill="#1B1F24" stroke="#FFAA00" stroke-width="2.5" />
+    <text x="57.5" y="29" text-anchor="middle" font-family="&#39;Courier New&#39;, Consolas, monospace" font-size="20" font-weight="bold" fill="#FFAA00">3</text>
+    <text x="57.5" y="64" text-anchor="middle" font-family="&#39;Courier New&#39;, Consolas, monospace" font-size="11" font-weight="bold" fill="#FFFFFF">IMPLEMENTASI</text>
+    <text x="57.5" y="80" text-anchor="middle" font-family="&#39;Courier New&#39;, Consolas, monospace" font-size="9" fill="#9BA3AF">CODING</text>
+  </g>
+
+  
+  <g transform="translate(454, 70)">
+    <rect x="35.5" y="0" width="44" height="44" rx="4" fill="#1B1F24" stroke="#55FF55" stroke-width="2.5" />
+    <text x="57.5" y="29" text-anchor="middle" font-family="&#39;Courier New&#39;, Consolas, monospace" font-size="20" font-weight="bold" fill="#55FF55">4</text>
+    <text x="57.5" y="64" text-anchor="middle" font-family="&#39;Courier New&#39;, Consolas, monospace" font-size="11" font-weight="bold" fill="#FFFFFF">PENGUJIAN</text>
+    <text x="57.5" y="80" text-anchor="middle" font-family="&#39;Courier New&#39;, Consolas, monospace" font-size="9" fill="#9BA3AF">TESTING</text>
+  </g>
+
+  
+  <g transform="translate(597, 70)">
+    <rect x="35.5" y="0" width="44" height="44" rx="4" fill="#1B1F24" stroke="#55FFFF" stroke-width="2.5" />
+    <text x="57.5" y="29" text-anchor="middle" font-family="&#39;Courier New&#39;, Consolas, monospace" font-size="20" font-weight="bold" fill="#55FFFF">5</text>
+    <text x="57.5" y="64" text-anchor="middle" font-family="&#39;Courier New&#39;, Consolas, monospace" font-size="11" font-weight="bold" fill="#FFFFFF">DEPLOYMENT</text>
+    <text x="57.5" y="80" text-anchor="middle" font-family="&#39;Courier New&#39;, Consolas, monospace" font-size="9" fill="#9BA3AF">RILIS</text>
+  </g>
+
+  
+  <g transform="translate(740, 70)">
+    <rect x="35.5" y="0" width="44" height="44" rx="4" fill="#1B1F24" stroke="#AA55FF" stroke-width="2.5" />
+    <text x="57.5" y="29" text-anchor="middle" font-family="&#39;Courier New&#39;, Consolas, monospace" font-size="20" font-weight="bold" fill="#AA55FF">6</text>
+    <text x="57.5" y="64" text-anchor="middle" font-family="&#39;Courier New&#39;, Consolas, monospace" font-size="11" font-weight="bold" fill="#FFFFFF">MAINTENANCE</text>
+    <text x="57.5" y="80" text-anchor="middle" font-family="&#39;Courier New&#39;, Consolas, monospace" font-size="9" fill="#9BA3AF">PERAWATAN</text>
+  </g>
+</svg>

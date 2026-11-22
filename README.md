@@ -1,31 +1,49 @@
-# 🚀 EduTrack — Sistem Monitoring Tugas Kuliah
+<div align="center">
 
-![Status](https://img.shields.io/badge/Sprint-Sprint%201-blue?style=for-the-badge)
-![Version](https://img.shields.io/badge/Docs-Complete-brightgreen?style=for-the-badge)
-![Tech](https://img.shields.io/badge/Stack-Laravel%20%7C%20MySQL-orange?style=for-the-badge)
+#  Ayam Geprek Pedas
 
-> **EduTrack** adalah platform berbasis web untuk membantu mahasiswa dan dosen memantau progres pengerjaan tugas kelompok berbasis metode Agile Sprint secara transparan.
+![Sprint](https://img.shields.io/badge/QUEST-SPRINT%201-55FF55?style=for-the-badge&logo=minecraft&logoColor=white)
+![Mode](https://img.shields.io/badge/MODE-SURVIVAL%20CO--OP-FFAA00?style=for-the-badge)
+![Status](https://img.shields.io/badge/STATUS-ACTIVE-55FFFF?style=for-the-badge)
 
----
+> *"Software yang hebat lahir dari tim yang saling percaya dan terus membangun blok demi blok."*
 
-## 👥 Tim Pengembang (Kelompok 3)
-
-| No | Nama Lengkap | NIM | Peran | Akun GitHub |
-| :--- | :--- | :--- | :--- | :--- |
-| 1 | Muhammad Al Khaliq | 240170001 | Project Manager & Backend | [@alkhaliq](https://github.com/alkhaliq) |
-| 2 | Nadia Putri | 240170014 | System Analyst | [@nadiaptr](https://github.com/nadiaptr) |
-| 3 | Fajar Pratama | 240170022 | UI/UX Designer | [@fajarprt](https://github.com/fajarprt) |
-| 4 | Wali Rahman | 240170035 | Frontend Developer | [@walirhm](https://github.com/walirhm) |
+</div>
 
 ---
 
-## 📂 Struktur Dokumen Sprint 1
+##  Player Select
 
-Seluruh dokumen perencanaan Sprint 1 tersimpan di dalam direktori `docs/`:
+<p align="center">
+  <img src="assets/player-select.svg" alt="Player Select" width="100%"/>
+</p>
 
-```text
-├── README.md
-└── docs/
-    ├── profil-kelompok.md    # Identitas tim dan pembagian peran
-    ├── profil-project.md     # Latar belakang, tujuan, dan tech stack
-    └── project-charter.md    # Ruang lingkup, timeline, dan risiko proyek
+---
+
+##  Power-Ups
+
+<p align="center">
+  <img src="assets/power-ups.svg" alt="Power-Ups" width="100%"/>
+</p>
+
+---
+
+##  Level Select
+
+<p align="center">
+  Setiap proyek melewati enam level siklus hidup pengembangan perangkat lunak (SDLC).
+</p>
+
+<p align="center">
+  <img src="assets/level-select.svg" alt="Level Select" width="100%"/>
+</p>
+
+---
+
+##  Inventory Dokumen Sprint 1
+
+| Slot | Dokumen | Deskripsi |
+| :---: | :--- | :--- |
+| `01` | [Profil Kelompok](Sprint-1/profil-kelompok.md) | Identitas party pengembang dan pembagian peran |
+| `02` | [Profil Project](Sprint-1/profil-project.md) | Latar belakang masalah, tujuan sistem, dan tech stack |
+| `03` | [Project Charter](Sprint-1/project-charter.md) | Ruang lingkup, jadwal sprint, dan mitigasi risiko |
