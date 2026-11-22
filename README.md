@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Ayam Geprek Pedas
+#  SkillSwap
 
 ![Sprint](https://img.shields.io/badge/QUEST-SPRINT%201-55FF55?style=for-the-badge&logo=minecraft&logoColor=white)
 ![Mode](https://img.shields.io/badge/MODE-SURVIVAL%20CO--OP-FFAA00?style=for-the-badge)
