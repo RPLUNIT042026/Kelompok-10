@@ -44,6 +44,6 @@
 
 | Slot | Dokumen | Deskripsi |
 | :---: | :--- | :--- |
-| `01` | [Profil Kelompok](Sprint-1/profil-kelompok.md) | Identitas party pengembang dan pembagian peran |
-| `02` | [Profil Project](Sprint-1/profil-project.md) | Latar belakang masalah, tujuan sistem, dan tech stack |
-| `03` | [Project Charter](Sprint-1/project-charter.md) | Ruang lingkup, jadwal sprint, dan mitigasi risiko |
+| `01` | [Profil Kelompok](sprint-1/profil-kelompok.md) | Identitas party pengembang dan pembagian peran |
+| `02` | [Profil Project](sprint-1/profil-project.md) | Latar belakang masalah, tujuan sistem, dan tech stack |
+| `03` | [Project Charter](sprint-1/project-charter.md) | Ruang lingkup, jadwal sprint, dan mitigasi risiko |
